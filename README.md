@@ -1,8 +1,17 @@
 # CivikBooks
-Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas comunes en Comunidades Inteligentes, Ciudades Inteligentes y Objetivos de Desarrollo Sostenible
+Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas comunes en:
+
+ - Comunidades Inteligentes
+ - Ciudades Inteligentes
+ - Objetivos de Desarrollo Sostenible
+ - Participación Ciudadana
+ - Participación Civica
+ - Activismo
 
 Recomendaciones:
+
 En todos los casos de cualquier contenido de este repo:
+
 - Citar correctamente
 - Verificar actualizaciones
 - Verificar quienes contibuyen
@@ -18,6 +27,7 @@ Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecomm
 ```
 - En el caso de usar este repo como fuente de contenido debe ser referenciado como: 
 [APELLIDO],[NOMBRE].[APELLIDO COAUTOR].[NOMBRE COAUTOR] . [FECHA] . [TITULO] . [SITIO] . [BASE] . [REPO] . [FECHA DERECUPERACION] . [URL]
+
 Ejemplo:
 ```
 Villa, Juan F., Villa, Sophie, y Pepito, P. (1 de mayo de 2021). CivikBook - PLnatilla para CivikBooks. Github. Recuperado el 10 de Mayo de 2021 https://github.com/smartcitiescommunity/CivikBooks/blob/main/Plantilla-CivikBooks.md

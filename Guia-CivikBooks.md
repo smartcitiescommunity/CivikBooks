@@ -34,6 +34,7 @@ Ejemplo:
 
 
 
+
 |Licencia|Citado|Compatibilidad|Dificultad|
 |------------ | -------------|------------ |------------ |
-|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). CivikBook - Guia para CivikBooks. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/CivikBooks/blob/main/Plantilla-CivikBooks.md|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|
+|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). CivikBook - Guia para CivikBooks. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:|

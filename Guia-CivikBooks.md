@@ -35,11 +35,11 @@ Ejemplo:
 
 ## Compuesto
 
-|Tipo|Numero y Área|Indicadores|Código CivikBook|
+|Tipo|Numero y Área|Indicadores|Código CivikBook ó CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|:family_man_woman_girl_boy: 1 - Fin de la Pobreza / :moneybag: A - Economía| 1.1.1 = Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural) / 1 = Tasa de desempleo de la ciudad (indicador básico)|C010101-5.1|
 
-|Tipo|Área|Indicador|Código ISO|
+|Tipo|Área|Indicador|CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|1A|1.1.1-1|C010101-5.1|
 

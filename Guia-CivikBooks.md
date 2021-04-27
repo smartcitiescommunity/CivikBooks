@@ -16,4 +16,4 @@ Ejemplo:
 
 |Tipo|Número|Indicador|Código UNSD|
 |------------ | -------------|------------ |------------ |
-|ODS |1|1.1.1 Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)|C010101|
+|ODS |:family_man_woman_girl_boy:1 = Fin de la Pobreza|1.1.1 = Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)|C010101|

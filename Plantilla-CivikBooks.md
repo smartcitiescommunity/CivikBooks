@@ -4,6 +4,6 @@ Plantilla para crear CivikBooks
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
 |1 | 2| 3|4 | 5| 6|7 | 8| 9|10 | 11| 12|13 | 14| 15|16 | 17|
 
-|:moneybag:| b|:zap:|:recycle:|:heavy_dollar_sign:|:classical_building:|:medical_symbol:|:house_with_garden:|:family:	|:soccer:	|:shield:|:wastebasket:|:juggling_person:|:satellite:|:tram:|:farmer:|:building_construction:|r|:potable_water:|:non-potable_water:|
-|------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
-|a| b| c|d|e|f|g | h| i|j | k| l|m | n| o|p | q|r|s |t|
+|:moneybag:| b|:zap:|:recycle:|:heavy_dollar_sign:|:classical_building:|:medical_symbol:|:house_with_garden:|:family:	|:soccer:	|:shield:|:wastebasket:|:juggling_person:|:satellite:|:tram:|:farmer:|:building_construction:|:potable_water:|:non-potable_water:|
+|------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | ------------ |------------ | -------------|
+|a| b| c|d|e|f|g | h| i|j | k| l|m | n| o|p | q|r|s |

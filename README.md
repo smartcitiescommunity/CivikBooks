@@ -10,7 +10,7 @@ Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas
 
 ## Guia
 
-la guia nos permite tener una orientación a la hora de realizar nuestros poryectos en Civikmind al asignarle un código. A través del código es posible saber rápidamente que Objetivo De Desarrollo Sostenible y Aréa de la ISO 37120 se están realizando en ese proyecto, reto, actividad o Hackathon para luego proceder a la acción, es decir: decidir una ruta de actividades y procesos.
+La guia nos permite tener una orientación a la hora de realizar nuestros poryectos en Civikmind al asignarle un código. A través del código es posible saber rápidamente que Objetivo De Desarrollo Sostenible y Aréa de la ISO 37120 se están realizando en ese proyecto, reto, actividad o Hackathon para luego proceder a la acción, es decir: decidir una ruta de actividades y procesos.
 
 :large_orange_diamond:[**Ver Guia**](https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md)
 

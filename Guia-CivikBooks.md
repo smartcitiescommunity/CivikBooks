@@ -1,4 +1,4 @@
-Plantilla para crear CivikBooks
+Guia para crear CivikBooks
 
 |:family_man_woman_girl_boy:|:stew:|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|:sun_with_face:|:chart_with_upwards_trend:|:gear:|:left_right_arrow:|:cityscape:|:infinity:|:earth_americas:|:fish:|:deciduous_tree:|:dove:|:atom_symbol:|
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|

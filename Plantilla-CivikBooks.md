@@ -1,6 +1,6 @@
 Plantilla para crear CivikBooks
 
-|:family_man_woman_girl_boy:|:stew:|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|7 | 8| 9|10 | 11| 12|13 | 14| 15|16 | 17|
+|:family_man_woman_girl_boy:|:stew:|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|sun_with_face|:chart_with_upwards_trend:| 9|10 | 11| 12|13 | 14| 15|16 | 17|
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
 |1 | 2| 3|4 | 5| 6|7 | 8| 9|10 | 11| 12|13 | 14| 15|16 | 17|
 

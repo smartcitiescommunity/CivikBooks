@@ -29,3 +29,12 @@ Ejemplo:
 |Tipo|Numero y Área|Indicadores|Código CivikBook|
 |------------ | -------------|------------ |------------ |
 |CivikBook |:family_man_woman_girl_boy: 1 - Fin de la Pobreza / :moneybag: A - Economía| 1.1.1 = Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural) / 1 = Tasa de desempleo de la ciudad (indicador básico)|C010101-5.1|
+
+
+
+
+
+|Licencia|Citado|Compatibilidad|Dificultad|
+|------------ | -------------|------------ |------------ |
+|[Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es) |Villa, Juan F., Villa,(28 de Abril de 2021). CivikBook - Guia para CivikBooks. Github. Recuperado el $Dia de $Mes de $Año https://github.com/smartcitiescommunity/CivikBooks/blob/main/Plantilla-CivikBooks.md
+|[Civikmind](https://github.com/smartcitiescommunity/Civikmind)|:yellow_circle::yellow_circle::yellow_circle::black_circle::black_circle:	|

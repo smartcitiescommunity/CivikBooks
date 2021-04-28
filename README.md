@@ -2,11 +2,11 @@
 Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas comunes en:
 
  - Comunidades Inteligentes
- - Ciudades Inteligentes
- - Objetivos de Desarrollo Sostenible
- - Participación Ciudadana
- - Participación Civica
- - Activismo
+ - [Ciudades Inteligentes](https://es.wikipedia.org/wiki/Ciudad_inteligente)
+ - [Objetivos de Desarrollo Sostenible](https://es.wikipedia.org/wiki/Objetivos_de_Desarrollo_Sostenible)
+ - [Participación Ciudadana](https://es.wikipedia.org/wiki/Participaci%C3%B3n_ciudadana)
+ - Veeduría Ciudadana
+ - [Activismo](https://es.wikipedia.org/wiki/Activismo)
 
 ## Guia
 

@@ -11,8 +11,10 @@ Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas
 ## Qué es un CivikBook
 
 Es un documento con un formato orientado a el uso de códigos CivikBook el cual tiene la intención de codificar el documento para orientar a quien lo use en un proyecto, reto, problema o idea con el fin de dar una solución en un contexto de Indicadores de Sostenibilidad o de alguna de las áreas de la ISO 37120 y sus indicadores. En ellos se puede ir consignando la información habilitarlos de forma abierta para que otra persona pueda usarlos y así evitar las curvas de experiencia, aprendizaje o complejidad tecnica generando así soluciones practicas para quien los use.
+:large_orange_diamond:[**Ver Guia**](https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md)
+:large_orange_diamond:[**Ver CivikBook**](https://github.com/smartcitiescommunity/CivikBooks/blob/main/CivikBook-Plantilla.md)
 
-## Qué es un Códigos CivikBook
+## Qué es un Código CivikBook o CBC
 
 Es un código compuesto de los ODS + la ISO 37120. Ambos tienen una codificación y lo que se pretende es combinar o correlacionar aspectos de ambos pero de una forma oganizada y sistematica para poder organizar, dimensionar, priorizar o automatizar soluciones en su contexto. Ademas permiten de esta manera ser usados por otras tecnologias o simplificar la complejidad que tiene cada uno de ellos al momento de ser evaluados.
 

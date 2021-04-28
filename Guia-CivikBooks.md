@@ -14,7 +14,8 @@
 
 Ejemplo:
 
-## Simple
+
+## 1 Individual
 
 |Tipo|Número|Indicador|Código UNSD|
 |------------ | -------------|------------ |------------ |
@@ -24,7 +25,7 @@ Ejemplo:
 |------------ | -------------|------------ |------------ |
 |ISO |:moneybag: A - Economía|1 = Tasa de desempleo de la ciudad (indicador básico)|5.1|
 
-### Simplificado para CSV
+### Simplificado
 |Tipo|Número|Indicador|Código UNSD|
 |------------ | -------------|------------ |------------ |
 |ODS|1|1.1.1|C010101|
@@ -33,21 +34,34 @@ Ejemplo:
 |------------ | -------------|------------ |------------ |
 |ISO|A|1|5.1|
 
-## Compuesto
+## Formula Simple
 
-|Tipo|Numero y Área|Indicadores|Código CivikBook ó CBC|
+|Tipo|Objetivo ó Área|Indicador ODS ó ISO 37120|CBC|
+|------------ | -------------|------------ |------------ |
+|CivikBook|Objetivo ó Área|Indicador ODS ó ISO 37120|Código USND ó Código ISO37120|
+
+## 2 Compuesto
+
+|Tipo|Objetivo y Área|Indicadores|Código CivikBook ó CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|:family_man_woman_girl_boy: 1 - Fin de la Pobreza / :moneybag: A - Economía| 1.1.1 = Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural) / 1 = Tasa de desempleo de la ciudad (indicador básico)|C010101-5.1|
+
+## Simplificado
 
 |Tipo|Área|Indicador|CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|1A|1.1.1-1|C010101-5.1|
 
-##  Normalizado
+## Formula Compuesta
+
+|Tipo|Objetivo ó Área|Indicador ODS y ISO 37120|Código CivikBook ó CBC|
+|------------ | -------------|------------ |------------ |
+|CivikBook|Objetivo+Área|Indicador ODS-Indicador ISO|Código USND-Código ISO37120|
 
 
 
-
+_______________________________________________________________
+_______________________________________________________________
 
 |Licencia|Citado|Compatibilidad|Dificultad|
 |------------ | -------------|------------ |------------ |

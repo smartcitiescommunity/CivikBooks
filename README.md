@@ -21,7 +21,7 @@ Es un código compuesto de los ODS + la ISO 37120. Ambos tienen una codificació
 ## Por qué usar los Objetivos de Desarrollo Sostenible y la ISO 37120 y no otras convenciones?
 
 La sociedad necesita ponerse de acuerdo en lo fundamental. En este caso por razones pragmaticas tanto los ODS como la ISO 37120 son mundialmente aceptados.
-Actualmente inumerables ciudades y comunidades del mundo no han han podido resolver el GAP de soluciones a nivel Político, Económico, Socio, Cultural, Tecnológico, Ecológico y Legal. Civikmind es una solución para ese problema y los Civikbooks con sus Códigos CivikBook permiten generar rutas reutilizables que pueden replicarse o adaptarse en otras ciudades o territorios.
+Actualmente inumerables ciudades y comunidades del mundo no han han podido resolver el GAP de soluciones a nivel Político, Económico, Social, Cultural, Tecnológico, Ecológico y Legal. Civikmind es una solución para ese problema y los Civikbooks con sus Códigos CivikBook permiten generar rutas reutilizables que pueden replicarse o adaptarse en otras ciudades o territorios.
 
 ## Guia
 

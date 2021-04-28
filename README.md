@@ -27,7 +27,7 @@ En todos los casos de cualquier contenido de este repo:
 
 ## Propiedad de contenido:
 
-En el caso que el contenido sea de construcción propia([Smart Cities Community](http://bit.ly/Smart-Cities-Community-Linkedin), Juan Fernando Villa Hernández o alguno de sus miembros):
+En el caso que el contenido sea de construcción propia([Smart Cities Community](http://bit.ly/Smart-Cities-Community-Linkedin), [Juan Fernando Villa Hernández](https://www.linkedin.com/in/juanfernandovillahernandez/) o alguno de sus miembros):
 -  la licencia asignada automaticamente será Licencia Creative Commoms, no es restrictiva pero obliga a dar credito a todos quienes participan y a no cerrar arbitrariamente el conocimiento: 
 ```
 Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.es

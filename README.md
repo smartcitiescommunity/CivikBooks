@@ -40,6 +40,6 @@ Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecomm
 Villa, Juan F., Villa, $TuApellido, $TuNombre, (1 de mayo de 2021). CivikBook - Plantilla para CivikBooks. Github. Recuperado el 10 de Mayo de 2021 https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md
 ```
 
-| Nota|El nombre y Marca ISO pertenece a la [Organización Internacional de Normalización](https://www.iso.org/home.html) y la [ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) es una construcción del grupo ISO [TC 268](https://www.iso.org/committee/656906/x/catalogue/)  |
+| Nota 1|El nombre y Marca ISO pertenece a la [Organización Internacional de Normalización](https://www.iso.org/home.html) y la [ISO 37120](https://es.wikipedia.org/wiki/ISO_37120) es una construcción del grupo ISO [TC 268](https://www.iso.org/committee/656906/x/catalogue/)  |
 |------------ | -------------|
-
+| Nota 2| El nombre y Marca ODS u Objetivos de Desarrollo Sostenible son riginarios de la organización [Naciones Unidas](https://www.un.org/sustainabledevelopment/es/) Los [Objetivos de Desarrollo Sostenible](https://es.wikipedia.org/wiki/Objetivos_de_Desarrollo_Sostenible) (2015-2030), también conocidos por sus siglas ODS, son una iniciativa impulsada para dar continuidad a la agenda de desarrollo tras los Objetivos de Desarrollo del Milenio (ODM).|

@@ -48,13 +48,13 @@ Ejemplo:
 
 ## Simplificado
 
-|Tipo|Área|Indicador|CBC|
+|Tipo|OA|Indicadores|CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|1A|1.1.1-1|C010101-5.1|
 
 ## Formula Compuesta
 
-|Tipo|Objetivo ó Área|Indicador ODS y ISO 37120|Código CivikBook ó CBC|
+|Tipo|Objetivo y Área|Indicador ODS y ISO 37120|Código CivikBook ó CBC|
 |------------ | -------------|------------ |------------ |
 |CivikBook|Objetivo+Área|Indicador ODS-Indicador ISO|Código USND-Código ISO37120|
 

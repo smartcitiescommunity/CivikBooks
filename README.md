@@ -37,6 +37,6 @@ Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecomm
 
 ### Ejemplo:
 ```
-Villa, Juan F., Villa, Sophie, y Pepito, P. (1 de mayo de 2021). CivikBook - PLnatilla para CivikBooks. Github. Recuperado el 10 de Mayo de 2021 https://github.com/smartcitiescommunity/CivikBooks/blob/main/Plantilla-CivikBooks.md
+Villa, Juan F., Villa, $TuApellido, $TuNombre, (1 de mayo de 2021). CivikBook - Plantilla para CivikBooks. Github. Recuperado el 10 de Mayo de 2021 https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md
 ```
 

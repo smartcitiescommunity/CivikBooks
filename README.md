@@ -8,6 +8,19 @@ Los Libros civicos son plantillas de soluciones a retos, necesidades y problemas
  - Veeduría Ciudadana
  - [Activismo](https://es.wikipedia.org/wiki/Activismo)
 
+## Qué es un CivikBook
+
+Es un documento con un formato orientado a el uso de códigos CivikBook el cual tiene la intención de codificar el documento para orientar a quien lo use en un proyecto, reto, problema o idea con el fin de dar una solución en un contexto de Indicadores de Sostenibilidad o de alguna de las áreas de la ISO 37120 y sus indicadores. En ellos se puede ir consignando la información habilitarlos de forma abierta para que otra persona pueda usarlos y así evitar las curvas de experiencia, aprendizaje o complejidad tecnica generando así soluciones practicas para quien los use.
+
+## Qué es un Códigos CivikBook
+
+Es un código compuesto de los ODS + la ISO 37120. Ambos tienen una codificación y lo que se pretende es combinar o correlacionar aspectos de ambos pero de una forma oganizada y sistematica para poder organizar, dimensionar, priorizar o automatizar soluciones en su contexto. Ademas permiten de esta manera ser usados por otras tecnologias o simplificar la complejidad que tiene cada uno de ellos al momento de ser evaluados.
+
+## Por qué usar los Objetivos de Desarrollo Sostenible y la ISO 37120 y no otras convenciones?
+
+La sociedad necesita ponerse de acuerdo en lo fundamental. En este caso por razones pragmaticas tanto los ODS como la ISO 37120 son mundialmente aceptados.
+Actualmente inumerables ciudades y comunidades del mundo no han han podido resolver el GAP de soluciones a nivel Político, Económico, Socio, Cultural, Tecnológico, Ecológico y Legal. Civikmind es una solución para ese problema y los Civikbooks con sus Códigos CivikBook permiten generar rutas reutilizables que pueden replicarse o adaptarse en otras ciudades o territorios.
+
 ## Guia
 
 La guia nos permite tener una orientación a la hora de realizar nuestros poryectos en Civikmind al asignarle un código. A través del código es posible saber rápidamente que Objetivo De Desarrollo Sostenible y Aréa de la [ISO 37120](https://es.wikipedia.org/wiki/ISO_37120)  se están realizando en ese proyecto, reto, actividad o Hackathon para luego proceder a la acción, es decir: decidir una ruta de actividades y procesos.

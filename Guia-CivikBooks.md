@@ -15,7 +15,7 @@
 Ejemplo:
 
 
-## 1 Individual
+## 1. Individual
 
 |Tipo|Número|Indicador|Código UNSD|
 |------------ | -------------|------------ |------------ |
@@ -40,7 +40,7 @@ Ejemplo:
 |------------ | -------------|------------ |------------ |
 |CivikBook|Objetivo ó Área|Indicador ODS ó ISO 37120|Código USND ó Código ISO37120|
 
-## 2 Compuesto
+## 2. Compuesto
 
 |Tipo|Objetivo y Área|Indicadores|Código CivikBook ó CBC|
 |------------ | -------------|------------ |------------ |

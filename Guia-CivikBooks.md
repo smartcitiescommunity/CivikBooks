@@ -2,7 +2,7 @@
 
 ## Objetivos de Desarrollo sostenible identificados por números
 
-|:family_man_woman_girl_boy: Poner fin a la pobreza en todas sus formas|:stew: Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|:sun_with_face:|:chart_with_upwards_trend:|:gear:|:left_right_arrow:|:cityscape:|:infinity:|:earth_americas:|:fish:|:deciduous_tree:|:dove:|:atom_symbol:|
+|:family_man_woman_girl_boy: Poner fin a la pobreza en todas sus formas|:stew: Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible|:health_worker:Garantizar una vida sana y promover el bienestar para todos en todas las edades|:books:|:busts_in_silhouette:|:droplet:|:sun_with_face:|:chart_with_upwards_trend:|:gear:|:left_right_arrow:|:cityscape:|:infinity:|:earth_americas:|:fish:|:deciduous_tree:|:dove:|:atom_symbol:|
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
 
@@ -84,6 +84,9 @@ ________________________________________________________________________________
 
 Bloques Reusabñes y otras opciones que encontrarás en los CivikBooks
 
+|:family_man_woman_girl_boy:|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|:sun_with_face:|:chart_with_upwards_trend:|:gear:|:left_right_arrow:|:cityscape:|:infinity:|:earth_americas:|:fish:|:deciduous_tree:|:dove:|:atom_symbol:|
+|------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
 
 ## Niveles de dificutad
 |Bajo|Medio-Bajo|Medio|Medio-alto|Alto|

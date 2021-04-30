@@ -50,7 +50,11 @@ Ejemplo:
 
 |Tipo|OA|Indicadores|CBC|
 |------------ | -------------|------------ |------------ |
-|CivikBook|1A|1.1.1-1|C010101-5.1|
+|CivikBook||ODS+ISO|USND+ISO37120|
+
+|T|OA|ODSISO|CBC|
+|------------ | -------------|------------ |------------ |
+|CB|1A|1.1.1-1|C010101-5.1|
 
 ## Formula Compuesta
 
@@ -64,19 +68,17 @@ Ejemplo:
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | Idea | High Level of Pollution | Low | Improved quality of life | 1.000.000 $ USD | Water | School | [Link Permanente](https://github.com/smartcitiescommunity/00/readme.md "URL of Idea") |
 
-## M9todo 9D
+## Método 9D
 | :orange_circle: Idea | :white_circle:	Procesos | :brown_circle:	Herramientas | :red_circle:	Comunidad | :black_circle: Experto| :green_circle: Laboratorio| :yellow_circle: Academia|:large_blue_circle: Empresa| :purple_circle: Estado & Sociedad|
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | Idea| # Número de procesos asociados | # Número de Herramientas| Saberes y Competencias | Doctor, Experto, Profesional  |Territorio o lugar de impacto | Universidad, Grupos de Investigación, Centros de Investigación | Empresas, Proveedores, Grupos economicos,Estudios e Investigación del mercado|Organizaciones, Estado, Sociedad Civil,Fundaciones, Corporaciones, Estado y Movimientos sociales o Políticos|
 
+## Niveles de dificutad
 |Bajo|Medio-Bajo|Medio|Medio-alto|Alto|
 |-----|-----|-----|-----|-----|
 1|2|3|4|5|
 |:star:	|:star:	|:star:	|:star:	|:star:	|
 
-|T|OA|ODSISO|CBC|
-|------------ | -------------|------------ |------------ |
-|CB||ODS+ISO|USND+ISO37120|
 
 
 _______________________________________________________________

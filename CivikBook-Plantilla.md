@@ -2,7 +2,7 @@
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | Idea | High Level of Pollution | Low | Improved quality of life | 1.000.000 $ USD | Water | School | [URL](https://github.com/smartcitiescommunity/00/readme.md "URL of Idea") |
 
-|:orange_circle: Idea | :white_circle:	Procesos | :brown_circle:	Herramientas | :red_circle:	Comunidad | :black_circle: Experto | :green_circle: Laboratorio| :yellow_circle: Academia|:large_blue_circle: Empresa| :purple_circle: Sociedad |
+|:orange_circle: Idea | :white_circle:	Procesos | :brown_circle:	Herramientas | :red_circle:	Comunidad | :black_circle: Experto| :green_circle: Laboratorio| :yellow_circle: Academia|:large_blue_circle: Empresa| :purple_circle: Sociedad|
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | Idea | High Level of Pollution | Low | Improved quality of life | 1.000.000 $ USD | Water | School | [URL](https://github.com/smartcitiescommunity/00/readme.md "URL of Idea") |
 

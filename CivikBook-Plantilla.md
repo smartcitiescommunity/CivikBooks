@@ -1,4 +1,4 @@
-| -# | Idea | Problema-Reto | Partes Interesadas | Beneficio Primario | Ahorro Aproximado | Área de Impacto | Investigaciones | URL |
+| -# | Problema-Reto | Solución-Idea | Partes Interesadas | Beneficio Primario | Ahorro Aproximado | Área de Impacto | Investigaciones | URL |
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | Idea | High Level of Pollution | Low | Improved quality of life | 1.000.000 $ USD | Water | School | [URL](https://github.com/smartcitiescommunity/00/readme.md "URL of Idea") |
 

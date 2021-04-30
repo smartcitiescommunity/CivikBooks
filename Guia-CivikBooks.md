@@ -62,16 +62,27 @@ Ejemplo:
 |------------ | -------------|------------ |------------ |
 |CivikBook|Objetivo+Área|Indicador ODS-Indicador ISO|Código USND-Código ISO37120|
 
+___________________________________________________________________________________________
+# Abordar el problema
+
 ## Identificar el problema
 
 | -# | Problema-Reto | :orange_circle: Solución-Idea | :purple_circle: Partes Interesadas | Beneficio Primario | Ahorro Aproximado | :green_circle: Área de Impacto |:yellow_circle: Investigaciones | URL |
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 00 | Idea | High Level of Pollution | Low | Improved quality of life | 1.000.000 $ USD | Water | School | [Link Permanente](https://github.com/smartcitiescommunity/00/readme.md "URL of Idea") |
 
+
+# Abordar la solución
+
 ## Método 9D
 | :orange_circle: Idea | :white_circle:	Procesos | :brown_circle:	Herramientas | :red_circle:	Comunidad | :black_circle: Experto| :green_circle: Laboratorio| :yellow_circle: Academia|:large_blue_circle: Empresa| :purple_circle: Estado & Sociedad|
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | Idea| # Número de procesos asociados | # Número de Herramientas| Saberes y Competencias | Doctor, Experto, Profesional  |Territorio o lugar de impacto | Universidad, Grupos de Investigación, Centros de Investigación | Empresas, Proveedores, Grupos economicos,Estudios e Investigación del mercado|Organizaciones, Estado, Sociedad Civil,Fundaciones, Corporaciones, Estado y Movimientos sociales o Políticos|
+
+____________________________________________________________________________________________
+# Otras convenciones
+
+Otras opciones que encontrarás en los CivikBooks
 
 ## Niveles de dificutad
 |Bajo|Medio-Bajo|Medio|Medio-alto|Alto|

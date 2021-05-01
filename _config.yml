@@ -3,11 +3,11 @@ title: Civikbooks
 author:
   name: juanfernandovillahernandez
   email: juan.villa@paisdelconocimiento.org
-description: > # this means to ignore newlines until "show_excerpts:" 
-Los Libros cívicos son plantillas para proyectos, soluciones a retos,
-necesidades y problemas comunes en Comunidades Inteligentes,
-Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible
-show_excerpts: true # set to true to show excerpts on the homepage
+description: > # this means to ignore newlines until "show_excerpts:"
+  Los Libros cívicos son plantillas para proyectos, soluciones a retos,
+  necesidades y problemas comunes en Comunidades Inteligentes,
+  Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible.
+show_excerpts: false # set to true to show excerpts on the homepag
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

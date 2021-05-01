@@ -1,7 +1,7 @@
-# OK XXX
+# ODS
+- [Hambre Cero](ODS/2.md)
+- [Fin de la pobreza](ODS/1.md)
 
-[Fin de la pobreza](ODS/1.md)
-[Hambre Cero](ODS/2.md)
 
 
 ## Welcome to GitHub Pages

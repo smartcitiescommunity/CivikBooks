@@ -8,7 +8,7 @@
 
 ## Áreas de la Norma ISO 37120 y relacionadas
 
-|:moneybag:|:open_book:|:zap:|:recycle:|:heavy_dollar_sign:|:classical_building:|:medical_symbol:|:house_with_garden:|:family:	|:soccer:	|:shield:|:wastebasket:|:juggling_person:|:satellite:|:tram:|:farmer:|:building_construction:|:potable_water:|:non-potable_water:|
+|:moneybag: Economía|:open_book: Educación|:zap: Energía|:recycle: Medio ambiente y Cambio climático|:heavy_dollar_sign: Finanzas|:classical_building: Gobernanza|:medical_symbol: Salud|:house_with_garden: Vivienda|:family: Población y Condiciones sociales|:soccer:	Diversión|:shield: Seguridad|:wastebasket: Residuos sólidos|:juggling_person: Deporte y Cultura|:satellite: Telecomunicación|:tram: Transporte|:farmer: Agricultura urbana y Seguridad alimentaria|:building_construction: Planeamiento urbanístico|:non-potable_water: Aguas residuales|:potable_water:Agua|
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | ------------ |------------ | -------------|
 |a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|
 

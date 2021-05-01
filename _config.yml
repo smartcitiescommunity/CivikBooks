@@ -53,7 +53,7 @@ social_links:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 
 plugins:
  - jekyll-feed

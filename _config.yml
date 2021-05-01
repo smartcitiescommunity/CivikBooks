@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Los Libros cívicos son plantillas para proyectos, soluciones a retos,
   necesidades y problemas comunes en Comunidades Inteligentes,
   Ciudades Inteligentes en el contexto de los Objetivos de Desarrollo Sostenible.
-show_excerpts: false # set to true to show excerpts on the homepag
+show_excerpts: true # set to true to show excerpts on the homepag
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -17,18 +17,18 @@ minima:
 
   # generate social links in footer
 social_links:
-    #twitter: jekyllrb
-    github:  juanfernandovillahernandez
+    twitter: smartcitiesco
+    github: smartcitiescommunity
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: SmartCitiesCommunity
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: juanfernandovillahernandez
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    youtube_channel: UCSNF2cnPhtm_0xWjyDBDxkA
+    youtube_channel_name: Smart Cities Community
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll

@@ -16,9 +16,9 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
-    twitter: jekyllrb
-    github:  jekyll
+  #social_links:
+    #twitter: jekyllrb
+    #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -33,7 +33,29 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
+email:
+  id: 'juan.villa@paisdelconocimiento.org'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
 
+facebook:
+  id: 'your-facebook-username'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'your-twitter-name'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'your-github-name'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
     # Mastodon instances
     # mastodon:
     # - username: jekyll

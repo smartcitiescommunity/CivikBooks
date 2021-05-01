@@ -2,7 +2,7 @@
 
 |**1** [Fin de la pobreza](ODS/1.md):family_man_woman_girl_boy:|**2** [Hambre Cero](ODS/2.md):stew:|:health_worker:|:books:|:busts_in_silhouette:|:droplet:|:sun_with_face:|:chart_with_upwards_trend:|:gear:|:left_right_arrow:|:cityscape:|:infinity:|:earth_americas:|:fish:|:deciduous_tree:|:dove:|:atom_symbol:|
 |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|------------ |------------ | -------------|
-|[C010b01](ODS/1.md#C010b01)|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
+|[C010b01](ODS/1.hmtl#C010b01)|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|
 
 
 

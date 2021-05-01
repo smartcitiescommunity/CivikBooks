@@ -13,4 +13,4 @@
 ---------
 ```Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.es```
 
-`Villa, Juan F., (1 de mayo de 2021). CivikBook - Plantilla para CivikBooks. Github. Recuperado el 1 de Mayo de 2021 https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md`
+`Villa, Juan F., (1 de mayo de 2021). CivikBook. Github. Recuperado $Fecha_Actual, https://github.com/smartcitiescommunity/CivikBooks/blob/main/Guia-CivikBooks.md`

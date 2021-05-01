@@ -1,6 +1,6 @@
 #theme: jekyll-theme-slate
 title: Civikbooks
-author: Juan Fernando Villa Hernández
+author:
   name: juanfernandovillahernandez
   email: juan.villa@paisdelconocimiento.org
 description: > # this means to ignore newlines until "show_excerpts:" 

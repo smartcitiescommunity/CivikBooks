@@ -1,29 +1,11 @@
-<div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders" tabindex="-1">
-        
-				<div class="row s-lg-row">
-    <div id="s-lg-col-126" class="col-md-12">
-        <div class="s-lg-col-boxes s-lg-box-special">
-							<div id="s-lg-box-wrapper-27363866" class="s-lg-box-wrapper-27363866">
-					<div id="s-lg-box-23321667-container" class="s-lib-box-container">
-						<div id="s-lg-box-23321667" class="s-lib-box s-lib-box-std s-lib-floating-box">
-							
-							<div id="s-lg-box-collapse-23321667">
-								<div class="s-lib-box-content s-lib-floating-box-content pad-left-none pad-right-none">
-									
-			<div id="s-lg-content-53017219" class="  clearfix">
-				<div class="panel-heading" id="headingOne" role="tab" style="border-bottom: 0px rgb(221, 221, 221); background-color: rgb(245, 245, 245); border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-left-color: rgb(221, 221, 221);">
+       
 <h4 align="middle" class="panel-title"><strong>Bases de datos estadísticos de las agencias custodias y co-custodias de los indicadores&nbsp;ODS</strong></h4>
 </div>
-
 <div class="panel-body" style="border-top: 1px solid rgb(221, 221, 221);">
 <p>Bases de datos estadísticas generales, portales de datos específicos de los ODS e informes estadísticos sobre el progreso hacia los objetivos de la Agenda 2030, desarrollados y mantenidos por organizaciones internacionales.</p>
 
 <p>La lista incluye los organismos que fueron asignados como custodios y los organismos contribuyentes (organismos de las Naciones Unidas y otras organizaciones internacionales) responsables del desarrollo metodológico y la recopilación global de datos para estos indicadores.</p>
 </div>
-
-		   </div>
-			<div id="s-lg-content-53017220" class="  clearfix">
-				<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
 <div class="panel panel-default"><!--desde aquí CITES-->
 <div class="panel-heading" id="headingTwo" role="tab">
 <div class="columna-derecha"><img align="right" alt="CITES and SDG" loading="lazy" src="https://libapps.s3.amazonaws.com/accounts/25220/images/15.png"></div>
@@ -1176,38 +1158,5 @@
 </div>
 </div>
 </div>
-<!--hasta aquí WTO --></div>
-
-		   </div>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-							</div>
-        </div>
-    </div>
-				
+<!--hasta aquí WTO -->
 </div>
-				<div class="row s-lg-row">
-    <div id="s-lg-col-1" class="col-md-3">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-    <div id="s-lg-col-2" class="col-md-6">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-    <div id="s-lg-col-3" class="col-md-3">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-				
-</div>
-				<div class="row s-lg-row">
-    <div id="s-lg-col-127" class="col-md-12">
-        <div class="s-lg-col-boxes">
-        </div>
-    </div>
-				
-</div>    </div>

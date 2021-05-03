@@ -1,4 +1,4 @@
-|ODS||CSV
+|ODS|CSV|
 | ----- | ----- |
 |Objetivos de Desarrollo Sostenible|[Descargar](ODS/CSV/README.md)|
 
